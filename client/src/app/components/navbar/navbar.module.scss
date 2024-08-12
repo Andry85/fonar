@@ -5,7 +5,11 @@
     padding: 10px;
 
     a {
-        color: crimson;
+        color: #000;
+
+        &:hover {
+            color: chocolate;
+        }
     }
    } 
 }
